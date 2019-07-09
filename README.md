@@ -23,13 +23,13 @@
 * Headless Mode
   - Queue up for League of Legends with an invisible client with barebones specifications.
 * Username Creation
-  - Automatically creates a username for your account using a built-in username generator library
+  - Automatically creates a username for your account using a built-in username generator library.
 * Automatic Login
   - Tired of typing in your credentials all the time? Let League Utility handle sign in for you.
 * Icon Changer
   - Access dozens of hidden icons and apply them to your account.
 * Level Tracker
-  - Keep track of your progression and when you're about to level up
+  - Keep track of your progression and when you're about to level up.
 * Auto Queuer
   - Simply start the autoqueuer and watch it work its magic as it puts you into a match automatically. Now you can use the washroom and not worry about missing queue.
 * Penalty Remover
