@@ -18,6 +18,10 @@
 
 ![screenshot](https://raw.githubusercontent.com/H-Bains/League-Utility/master/League%20Utility/League%20Utility.gif)
 
+## Description
+
+League Utility is a comprehensive tool that provides additional functionality and optimizations to the League of Legends client. By making use of the LCU's undocumented internal REST based API, this utility simulates various actions that a user would manually perform. Combined with external functionality such as performance optimization and invisible mode, this tool aims to maximize the user experience when playing League of Legends.
+
 ## Key Features
 
 * Headless Mode
@@ -36,8 +40,10 @@
   - Automatically waits out LeaverBuster and queue dodge penalties and puts you into a queue.
 * Crash Monitor
   - Crashed out of a game in the heat of battle? The crash monitor will automatically reconnect you into the game as fast as possible.
-* Auto Honor
-  - The honor screen can become tedious, and sometimes, you don't want to honor a player and want to queue up again as fast as possible. The Auto Honor feature allows you to skip the honor screen automatically.
+* Wipe Friends List
+  - Deleting a friend from your friends list is a tedious process. This feature allows you to remove your friends with the click of a button.
+* Loot Opener
+  - Combining key fragments, opening chests, disenchanting loot, and selling shards is a task that most players find repetitive and time consuming. League Utility's Loot Opener combines, opens, and disenchants your loot in the click of a button.
 * Performance Optimizer
   - Experience League like never before. Our in-built RAM optmizer can bring RAM usage from 1 GB down to 44 MB (a 96% improvement).
 
